@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2b7c9423-3def-4300-a97a-17e523d50831@S2.FASTSPEEDS.IR:2053?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=tls&encryption=none&insecure=0&host=finlooo.Mehrsazi.ir&type=ws&allowInsecure=0&sni=finlooo.mehrsazi.ir#Telegram : @V2ynpv
 vless://2cf7b430-8e60-479b-a423-4b675a561eac@snapp.ir:2082?path=/&security=none&encryption=none&host=rpsvpn3.xchitozx.org&type=ws#@Vpnpas
 vless://2ee79b8d-7bc7-b497-96aa-260f0200c4d9@pari.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.204#Psiphon-@V2rayAlpha--30
 vless://2f4e3910-aa35-41a4-856a-5a75d19dd853@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#@mobo_game_land
@@ -503,3 +502,4 @@ vless://7320879b-dc67-4bf1-bd2a-5b056f308dda@free.z1q1.cfd:80?encryption=none&ho
 vless://7370b430-d9c1-487b-afa6-57a4638ce9e7@varzesh3.com:80?path=/&security=none&encryption=none&host=New.nexoratechcenter.ir&type=ws#Psiphon--@V2rayAlpha-22
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.121.110.238:443?security=&encryption=none&headerType=none&type=tcp#canfing_FreeConffning
 vless://73ada458-7d84-4ffc-ab0f-6195f2a68d39@snapp.ir:80?path=/index.html&security=none&encryption=none&host=ert.lamponzizs.ir&type=ws#@vasilllm_1 🎁
+vless://73ada458-7d84-4ffc-ab0f-6195f2a68d39@snapp.ir:80?path=/index.html&security=none&encryption=none&host=ert.lamponzizs.ir&type=ws#@vasilllm_1 📓
