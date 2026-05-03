@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://Telegram-Parsashonam@94.130.13.19:443?encryption=none&security=tls&sni=kubernetes.io&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=xhttp&host=mzze.netlify.app&path=/p4r34m&mode=auto#@archivetell_kubernetes.io_94.130.13.19
+vless://Telegram-Parsashonam@94.130.13.19:443?encryption=none&security=tls&sni=letsencrypt.org&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=xhttp&host=mzze.netlify.app&path=/p4r34m&mode=auto#@archivetell_letsencrypt.org_94.130.13.19
 vless://Telegram-Parsashonam@94.130.13.19:443?encryption=none&security=tls&sni=scheduler-plugins.sigs.k8s.io&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=xhttp&host=mzze.netlify.app&path=/p4r34m&mode=auto#@archivetell_scheduler-plugins.sigs.k8s.io_94.130.13.19
 vless://Telegram-Parsashonam@94.130.13.19:443?encryption=none&type=xhttp&security=tls&path=/p4r34m&host=mzze.netlify.app&mode=auto&sni=kubernetes.io&alpn=h2,http/1.1&allowInsecure=1#@vasl_bashim
 vless://Telegram-Parsashonam@94.130.13.19:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=mzze.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#@filembad
@@ -501,5 +503,3 @@ vless://monacoVPN@83.228.228.44:22?type=tcp&encryption=none&path=/@monacoVPN@mon
 vless://telegram-@dickiriptorbot@nextjs.org:443?mode=auto&path=/@dickiriptorbot&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=cloudflares-api.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=nextjs.org#neet_done👈چنلمون
 vless://telegram-@dickiriptorbot@react.dev:443?mode=auto&path=/@dickiriptorbot&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=michaeljackson-api.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=react.dev#neet_done👈چنلمون
 vless://telegram-@dickiriptorbot@react.dev:443?mode=auto&path=/@dickiriptorbot&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=pycharmapi.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=react.dev#@NetZone_ir
-vless://telegram-@dickiriptorbot@react.dev:443?mode=auto&path=/@dickiriptorbot&security=tls&encryption=none&alpn=h2,http/1.1&host=telegram-dickiriptorbot.vercel.app&fp=chrome&type=xhttp&sni=react.dev#@InfoTech_VK4
-vless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=/@dickiriptorbot&security=tls&encryption=none&insecure=0&host=project-h7l2a.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#برای اتصال دائمی جوین شو🗾 prrofile_purple@
