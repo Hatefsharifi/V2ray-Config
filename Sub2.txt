@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://355cbbae-10ac-4715-8790-c8dc57d7d9f6@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#6👉 @v2FreeHub - & Psiphon
-vless://355cbbae-10ac-4715-8790-c8dc57d7d9f6@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#7👉 @v2FreeHub - & Psiphon
-vless://355cbbae-10ac-4715-8790-c8dc57d7d9f6@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@Brayirani •☕ | عضو شید قطع نشید.
-vless://360d65ec-3dc9-49ef-9839-51a794f492a8@104.18.16.56:443?mode=auto&path=/cloudapi&security=tls&alpn=h2&encryption=none&insecure=0&host=game.zamanpnl.help&fp=chrome&type=xhttp&allowInsecure=0&sni=game.zamanpnl.help#@NETMelliAnti
 vless://365edf09-5254-495f-8de2-155e7f6a17bc@v2ngfast-v2ngfast-v2ngfast-v2ngfast.sixey18348.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sixey18348.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sixey18348.workers.dev#3 🇩🇪 @V2ngFast
 vless://36623934-3936-4030-b332-633533653363@185.143.233.167:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#@filtershekan_channel
 vless://36623934-3936-4030-b332-633533653363@185.143.233.167:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#@vpnbaz | ترکیبی
@@ -503,3 +499,7 @@ vless://72a61ef2-f87d-44ee-a42a-e4154dcd5086@snapp.ir:8880?encryption=none&type=
 vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=/&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#@appsooner کانال تلگرام 🕊️
 vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=/&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#KurdConfing
 vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=/&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#🎖ترکیبی @kakajan
+vless://7337f0ad-ba98-4ade-8c8a-8bec0990dfa7@digipay.ir:80?path=/&security=none&encryption=none&host=asd.pixserver.ir&type=ws#@appsooner کانال تلگرام 🕊️
+vless://7337f0ad-ba98-4ade-8c8a-8bec0990dfa7@digipay.ir:80?type=ws&encryption=none&path=/&host=asd.pixserver.ir&security=none#B_VPN_free
+vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#@ProxyV2IR
+vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#@oxnet_ir | ترکیب 14
