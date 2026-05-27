@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2558b0ae-3a2e-4496-97f1-4e0c23386302@185.143.233.5:2083?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#🇮🇷33233 | ⚡️Telegram = t.me/SOSkeyNET
-vless://255c6f88-7f0b-4b51-a415-d86ebabf7138@45.76.83.35:54985?security=none&encryption=none&headerType=none&type=tcp#Telegram | @ProxyEliteVPN
-vless://255c6f88-7f0b-4b51-a415-d86ebabf7138@45.76.83.35:54985?security=none&encryption=none&headerType=none&type=tcp#Telegram | @ProxyEliteVPN  ❕میتونید روی بقیه نت ها هم تست کنید  Support us✅ @ProxyEliteVPN
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🐏20@oneclickvpnkeys
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#@v2rayngzendegimamad🕊️
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#@KAFING_2
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#@KAFING_2
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#Telegram : @V2ynpv
 vless://2690b1e5-7893-4e9f-a609-603b632bc11a@84.201.173.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.vk.com&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4&spx=/#🇷🇺33136 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev#2 🇩🇪 @av2ngFast
@@ -503,3 +495,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.164.248.138:2096?path=/&securit
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.164.248.138:2096?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#💥@V2ray_official
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.196.237:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 98
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.197.52:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@i10VPN - Psiphon 91
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.198.130:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.198.78:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.88.50:8880?type=ws&host=vms.lifetime20.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#@v2rayconfigamir 4786
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime58.workers.dev#@v2rayconfigamir 2941
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.50:8880?host=vms.lifetime58.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&type=ws#@v2rayconfigamir 2802
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?@ProxyAnonymous&security=tls&sni=sni.111000.indevs.in#@ProxyAnonymous
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?path=/Telegram@V2rayAlpha&security=tls&encryption=none&host=sni.my111000.tech&type=ws&sni=sni.my111000.tech#@hi_proxy_iran :👈کانال تلگرام
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?path=/Telegram@V2rayAlpha&security=tls&encryption=none&insecure=1&host=sni.my111000.tech&type=ws&allowInsecure=1&sni=sni.my111000.tech#@meliproxyy

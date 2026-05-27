@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.198.130:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.213.198.78:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.88.50:8880?type=ws&host=vms.lifetime20.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#@v2rayconfigamir 4786
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime58.workers.dev#@v2rayconfigamir 2941
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.50:8880?host=vms.lifetime58.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&type=ws#@v2rayconfigamir 2802
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?@ProxyAnonymous&security=tls&sni=sni.111000.indevs.in#@ProxyAnonymous
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?path=/Telegram@V2rayAlpha&security=tls&encryption=none&host=sni.my111000.tech&type=ws&sni=sni.my111000.tech#@hi_proxy_iran :👈کانال تلگرام
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?path=/Telegram@V2rayAlpha&security=tls&encryption=none&insecure=1&host=sni.my111000.tech&type=ws&allowInsecure=1&sni=sni.my111000.tech#@meliproxyy
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.152.187.76:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🦉@FreeConfigForYou
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.128.76.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram🇨🇳@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#⛳94@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.238:2096?security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#@vmesskhodam
@@ -503,3 +495,11 @@ vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=/?TELEGRAM-
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=/question/avatar/hot&security=tls&encryption=none&host=pagescm.freen34.cc.cd&type=ws&sni=pagescm.freen34.cc.cd#@appsooner کانال تلگرام 🕊️
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=/question/avatar/hot&security=tls&encryption=none&insecure=1&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen34.cc.cd#@SHOP_GAMING1011 fast 2⚡
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=/question/avatar/hot&security=tls&encryption=none&insecure=1&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen34.cc.cd#@UnNurmal fast 2⚡
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=/question/avatar/hot&security=tls&encryption=none&insecure=1&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen34.cc.cd#@VpnFardad fast 2⚡
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=/question/avatar/hot&security=tls&encryption=none&insecure=1&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen34.cc.cd#@filembad
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=/question/avatar/hot&security=tls&encryption=none&insecure=1&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen34.cc.cd#Tel;Father_vpn³
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=/question/avatar/hot&security=tls&encryption=none&insecure=1&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen34.cc.cd#https://t.me/VIPV2rayNGNP
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?allowInsecure=1&encryption=none&host=pagescm.freen20.cc.cd&path=/item&security=tls&sni=pagescm.freen20.cc.cd&type=ws#⛳100@oneclickvpnkeys
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#@KAFING_2
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?path=/item#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=1&host=pagescm.freen20.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen20.cc.cd#[65232] - Telegram : @V2All
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?path=/item&security=tls&encryption=none&insecure=1&host=pagescm.freen20.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen20.cc.cd#@meliproxyy

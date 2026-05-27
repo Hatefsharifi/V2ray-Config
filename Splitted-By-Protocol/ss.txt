@@ -3,9 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTldUZUoxRWpaVTN6N0VR@20.87.107.99:443#proxy_kafee
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080?type=tcp#%40V2raysCollector%20%F0%9F%AB%B8%F0%9F%AB%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080?note=--Telegram--@V2ray_official--#[
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#[
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206bXpJcGZIb1ZIL1hybmszY3VTYjlhdz09OkJuQUgzVjBMTkg0dWZ5eW1HdW1Ua1E9PQ@5.160.47.211:8443#SHOP_GAMING1011
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206bXpJcGZIb1ZIL1hybmszY3VTYjlhdz09OkJuQUgzVjBMTkg0dWZ5eW1HdW1Ua1E9PQ@5.160.47.211:8443#UnNurmal
