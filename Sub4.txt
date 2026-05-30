@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#@v2raybaaz 🛸
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#https://t.me/v2raynplus |Bulgaria
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.140:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#@filtershekan_channel
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.140:443?security=tls&encryption=none&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#v2rayNplus |Romania
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#⚡@V2ray_official
@@ -503,3 +500,6 @@ vless://d22e6077-bfe7-430a-8484-9ddc672d2b76@v2ngfast-v2ngfast-v2ngfast-v2ngfast
 vless://d262c258-e73a-47d2-944d-55cfc4bc8fd0@45.39.241.51:23837?encryption=none&type=ws&path=/ws&host=45.39.241.51#🦉@FreeConfigForYou
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.16.7.70:2053?path=/fast&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#@Father_vpn³
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.17.72.206:443?encryption=none&type=ws&host=hio-awx.pages.dev&path=/?ed=2048/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=hio-awx.pages.dev#@EVAY_VPN
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=0&host=hio-awx.pages.dev&type=ws&allowInsecure=0&sni=hio-awx.pages.dev#@GozargahVPN
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=0&host=hio-awx.pages.dev&type=ws&allowInsecure=0&sni=hio-awx.pages.dev#@GozargahVPN  #موقت @GozargahVPN
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.66.47.69:2053?path=/fast&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#@Father_vpn²
