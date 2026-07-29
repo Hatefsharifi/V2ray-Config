@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://38df5518-26c5-449b-98d9-a4f456f5f689@168.119.156.101:443?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#%40NETMelliAnti
 vless://0020817d-50cb-a5a2-3587-60cb3416abd1@rvg-production-0e6a.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/0020817d-50cb-a5a2-3587-60cb3416abd1&security=tls&encryption=none&insecure=0&host=rvg-production-0e6a.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-0e6a.up.railway.app#@M4Dvpn
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
