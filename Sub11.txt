@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🚀t.me/iProxyChannel
-vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&type=grpc&serviceName=TunService&sni=download.nvidia.com#🐻81@ConfigV2RayNG
-vless://c78851ee-e51f-845c-0b5a-7157c5411a88@rokervpn-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=rokervpn-production.up.railway.app&path=/xhttp-siz10/stream-up/c78851ee-e51f-845c-0b5a-7157c5411a88&sni=rokervpn-production.up.railway.app&fp=chrome&alpn=h2,http/1.1#X4G-rokervpn🔥
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.195.69.119:2053?path=/&security=tls&encryption=none&host=forfreeuse.sub-flow.online&fp=chrome&type=ws&sni=forfreeuse.sub-flow.online#SW-@ELiV2ray
-vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=takken.sorza.ir&path=/?ed=2560 PuLaFreeBOT PuLaVPN PuLaVPN PuLaVPN#کانال تلگرام : Free_VPN_CH@
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
 vless://c85a6219-5105-4786-bfb4-92f57f8c32e0@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@bored_vpn
 vless://c85a6219-5105-4786-bfb4-92f57f8c32e0@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@mehrosaboran
@@ -503,3 +498,8 @@ vless://deb06db2-5dda-4ce7-9a75-a5ab0acbf6b2@37.32.26.173:11328?encryption=none&
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩
 vless://ded017f2-8f18-4e0b-b0ed-8451cd664e55@104.20.6.134:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=cloud.dns.xn--q9jyb4c&fp=chrome&type=xhttp&allowInsecure=0&sni=cloud.dns.xn--q9jyb4c#Cloudflare-@break_the_barriers
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?security=none&type=grpc#🪐 Zohal Server 🆓️
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880/?type=grpc&encryption=none#🪐 Zohal Server 🆓️
+vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80?security=none&type=ws&path=/&host=vl.dalazhi.cloudns.biz&ed=2048&packetEncoding=xudp&encryption=none#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
+vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?encryption=none&host=vl.dalazhi.cloudns.biz&path=/&security=none&type=ws#@filembad
+vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?encryption=none&host=vl.dalazhi.cloudns.biz&path=/&security=none&type=ws#🔵@chillguy_vpn
+vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
